@@ -1,2 +1,2 @@
-# tutorial-repository
+# tutorial-repository-zakupy
 My first ever github repository.
